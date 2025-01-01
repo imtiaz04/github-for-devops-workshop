@@ -1,0 +1,18 @@
+  6  git --version
+    7  git status
+    8  ls
+    9  git status
+   10  git add testing.py
+   11  git status
+   12  git rm --cached testing.py
+   13  git status
+   14  git add testing.py
+   15  git status
+   16  git commit -m " added testing file"
+   17   git config --global user.email "imtiaz.4.us@gmail.com"
+   18   git config --global user.name "Imtiaz"
+   19  git commit -m " added testing file"
+   20  rm -rf testing.py
+   21  git status
+   22  git restore testing.py
+   23  history
