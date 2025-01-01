@@ -16,3 +16,8 @@
    21  git status
    22  git restore testing.py
    23  history
+
+   git remote add origin https://github.com/imtiaz04/github-for-devops-workshop.git   29  git remote -v
+   30  git push  https://github.com/imtiaz04/github-for-devops-workshop.git
+   31  git push  https://github.com/imtiaz04/github-for-devops-workshop.git
+   32  git push  https://github.com/imtiaz04/github-for-devops-workshop.git
